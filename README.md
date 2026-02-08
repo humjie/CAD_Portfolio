@@ -115,7 +115,7 @@ Merchandise for Makerspace Friendlies 2026 (Event)
 
 <p align="center">
   <img src="CAD_Picture/MFCappy/MFCappy_1.jpg" width="40%"/>
-  <img src="CAD_Picture/MFCappy/MFCappy_2.jpg" width="50%"/>
+  <img src="CAD_Picture/MFCappy/MFCappy_2.jpg" width="41.5%"/>
 </p>
 
 ---
