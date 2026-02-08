@@ -31,7 +31,7 @@ Designed a low-cost, tailored teleoperation arm to capture human-guided manipula
 * **Integration:** Restructured URDF files to achieve precise Sim-to-Real control with MuJoCo.
 * **Outcome:** Successfully used for collecting synchronized vision and action data.
 
-![Project Screenshot](CAD_Picture/xarm/xarm_1.jpg)
+![Project Screenshot](CAD_Picture/xarm/xarm_1.jpg)(CAD_Picture/xarm/xarm_2.jpg)(CAD_Picture/xarm/xarm_3.jpg)
 
 ### 2. "More-Tea" Autonomous Pet Robot
 **Software:** Autodesk Fusion, Ultimaker Cura, Bamboo Studio
