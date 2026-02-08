@@ -20,7 +20,7 @@ All the CAD is done independently unless otherwise stated.
 
 ---
 
-## 📬 Contact
+## Contact
 If you'd like to discuss my designs or collaborate on a project, feel free to reach out!
 * [LinkedIn](https://www.linkedin.com/in/humingjie)
 * [Email](mingjiehu5@gmail.com)
