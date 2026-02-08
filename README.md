@@ -90,8 +90,8 @@ Designed the mechanical structure for a high-speed autonomous maze-solving robot
 ### 5. Ball Launcher Bot
 - **Software:** Autodesk Fusion, Bamboo Studio, Ultimaker Cura
 - **Date:** Sep 2025
-Credit to Aqid for ball launcher design
 
+Credit to Aqid for ball launcher design
 Ball Launcher Bot for STARTathon 2526 (Event)
 
 <p align="center">
