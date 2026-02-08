@@ -39,9 +39,9 @@ Designed a low-cost, tailored teleoperation arm to capture human-guided manipula
 * **Outcome:** Successfully used for collecting synchronized vision and action data.
 
 <p align="center">
-  <img src="CAD_Picture/xarm/xarm_1.jpg" width="50%"/>
   <img src="CAD_Picture/xarm/xarm_2.jpg" width="30%"/>
   <img src="CAD_Picture/xarm/xarm_3.jpg" width="30%"/>
+  <img src="CAD_Picture/xarm/xarm_1.jpg" width="50%"/>
 </p>
 
 ### 2. "More-Tea" Autonomous Pet Robot
@@ -58,9 +58,9 @@ Innovated a pet robot capable of interaction via gesture and speech.
   <img src="CAD_Picture/Moretea/Moretea_2.jpg" width="40%"/>
 </p>
 <p align="center">
-  <img src="CAD_Picture/Moretea/Moretea_3.jpg" width="40%"/>
-  <img src="CAD_Picture/Moretea/Moretea_4.jpg" width="40%"/>
-  <img src="CAD_Picture/Moretea/Moretea_5.jpg" width="40%"/>
+  <img src="CAD_Picture/Moretea/Moretea_3.jpg" width="33%"/>
+  <img src="CAD_Picture/Moretea/Moretea_4.jpg" width="33%"/>
+  <img src="CAD_Picture/Moretea/Moretea_5.jpg" width="33%"/>
 </p>
 
 ### 3. "Green it!" Hydroponics Control System
