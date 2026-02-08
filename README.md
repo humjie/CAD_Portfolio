@@ -20,6 +20,13 @@ All the CAD is done independently unless otherwise stated.
 
 ---
 
+## 📬 Contact
+If you'd like to discuss my designs or collaborate on a project, feel free to reach out!
+* [LinkedIn](https://www.linkedin.com/in/humingjie)
+* [Email](mingjiehu5@gmail.com)
+
+---
+
 ## Featured Projects
 
 ### 1. 6-DoF Teleoperation Robotic Arm for UFactory xArm6
@@ -31,7 +38,11 @@ Designed a low-cost, tailored teleoperation arm to capture human-guided manipula
 * **Integration:** Restructured URDF files to achieve precise Sim-to-Real control with MuJoCo.
 * **Outcome:** Successfully used for collecting synchronized vision and action data.
 
-![Project Screenshot](CAD_Picture/xarm/xarm_1.jpg)(CAD_Picture/xarm/xarm_2.jpg)(CAD_Picture/xarm/xarm_3.jpg)
+<p align="center">
+  <img src="CAD_Picture/xarm/xarm_1.jpg" width="30%"/>
+  <img src="CAD_Picture/xarm/xarm_2.jpg" width="30%"/>
+  <img src="CAD_Picture/xarm/xarm_3.jpg" width="30%"/>
+</p>
 
 ### 2. "More-Tea" Autonomous Pet Robot
 **Software:** Autodesk Fusion, Ultimaker Cura, Bamboo Studio
@@ -42,31 +53,55 @@ Innovated a pet robot capable of interaction via gesture and speech.
 * **Electronics Integration:** Engineered precise mounting points for servo motors, OLED displays, and other components.
 * **Manufacturing:** Optimized parts for printing on Bamboo Lab and Prusa printers.
 
-![Project Screenshot](path/to/your/image_of_robot.png)
+<p align="center">
+  <img src="CAD_Picture/Moretea/Moretea_1.jpg" width="40%"/>
+  <img src="CAD_Picture/Moretea/Moretea_2.jpg" width="40%"/>
+</p>
+<p align="center">
+  <img src="CAD_Picture/Moretea/Moretea_3.jpg" width="30%"/>
+  <img src="CAD_Picture/Moretea/Moretea_4.jpg" width="30%"/>
+  <img src="CAD_Picture/Moretea/Moretea_5.jpg" width="30%"/>
+</p>
 
 ### 3. "Green it!" Hydroponics Control System
 **Software:** Autodesk Fusion, Ultimaker Cura
 **Date:** Dec 2024
 
+Enclosure for a hydroponics monitoring system
 * **Enclosure Design:** Constructed a waterproof enclosure to secure electric components and microcontrollers.
 * **Fluid Systems:** Designed mounts for piping and raw sensors.
+
+<p align="center">
+  <img src="CAD_Picture/Greenit/Greenit_1.jpg" width="40%"/>
+  <img src="CAD_Picture/Greenit/Greenit_2.jpg" width="40%"/>
+</p>
 
 ### 4. Micromouse Robotics Competition
 **Software:** SolidWorks
 **Date:** Jan 2025
 
 Designed the mechanical structure for a high-speed autonomous maze-solving robot.
-* **Optimization:** Focused on weight reduction and center-of-gravity optimization for high-speed turns.
 * **Components:** Designed chassis, motor mounts, and sensor brackets.
 
-### 5. Other Project
-**Software:** Autodesk Fusion, SolidWorks, Bamboo Studio, Prusa Slicer, Ultimaker Cura
-Credit to Aqid for the Ball Launcher Bot's launcher design
+<p align="center">
+  <img src="CAD_Picture/Micromouse/Micromouse_1.jpg" width="40%"/>
+</p>
+
+### 5. Ball Launcher Bot
+**Software:** Autodesk Fusion, Bamboo Studio, Ultimaker Cura
+**Date:** Sep 2025
+Credit to Aqid for ball launcher design
+
+<p align="center">
+  <img src="CAD_Picture/Micromouse/Micromouse_1.jpg" width="40%"/>
+</p>
+
+### 6. Soccer Bot
+**Software:** Autodesk Fusion, Ultimaker Cura
+**Date:** Feb 2025
+
+<p align="center">
+  <img src="CAD_Picture/Soccerbot/Soccerbot_1.jpg" width="40%"/>
+</p>
 
 ---
-
-
-## 📬 Contact
-If you'd like to discuss my designs or collaborate on a project, feel free to reach out!
-* [LinkedIn](https://www.linkedin.com/in/humingjie)
-* [Email](mingjiehu5@gmail.com)
