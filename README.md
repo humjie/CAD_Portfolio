@@ -30,8 +30,8 @@ If you'd like to discuss my designs or collaborate on a project, feel free to re
 ## Featured Projects
 
 ### 1. 6-DoF Teleoperation Robotic Arm for UFactory xArm6
-**Software:** Autodesk Fusion, Bamboo Studio
-**Date:** Jul 2025
+- **Software:** Autodesk Fusion, Bamboo Studio
+- **Date:** Jul 2025
 
 Designed a low-cost, tailored teleoperation arm to capture human-guided manipulation data for training Vision-Language-Action (VLA) models.
 * **Design:** Created a custom 6-Degree-of-Freedom arm structure optimized for ergonomic teleoperation.
@@ -45,8 +45,8 @@ Designed a low-cost, tailored teleoperation arm to capture human-guided manipula
 </p>
 
 ### 2. "More-Tea" Autonomous Pet Robot
-**Software:** Autodesk Fusion, Ultimaker Cura, Bamboo Studio
-**Date:** May 2025
+- **Software:** Autodesk Fusion, Ultimaker Cura, Bamboo Studio
+- **Date:** May 2025
 
 Innovated a pet robot capable of interaction via gesture and speech.
 * **Chassis Design:** Designed the complete external appearance and internal component mounts.
@@ -64,8 +64,8 @@ Innovated a pet robot capable of interaction via gesture and speech.
 </p>
 
 ### 3. "Green it!" Hydroponics Control System
-**Software:** Autodesk Fusion, Ultimaker Cura
-**Date:** Dec 2024
+- **Software:** Autodesk Fusion, Ultimaker Cura
+- **Date:** Dec 2024
 
 Enclosure for a hydroponics monitoring system
 * **Enclosure Design:** Constructed a waterproof enclosure to secure electric components and microcontrollers.
@@ -77,8 +77,8 @@ Enclosure for a hydroponics monitoring system
 </p>
 
 ### 4. Micromouse Robotics Competition
-**Software:** SolidWorks
-**Date:** Jan 2025
+- **Software:** SolidWorks
+- **Date:** Jan 2025
 
 Designed the mechanical structure for a high-speed autonomous maze-solving robot.
 * **Components:** Designed chassis, motor mounts, and sensor brackets.
@@ -88,8 +88,8 @@ Designed the mechanical structure for a high-speed autonomous maze-solving robot
 </p>
 
 ### 5. Ball Launcher Bot
-**Software:** Autodesk Fusion, Bamboo Studio, Ultimaker Cura
-**Date:** Sep 2025
+- **Software:** Autodesk Fusion, Bamboo Studio, Ultimaker Cura
+- **Date:** Sep 2025
 Credit to Aqid for ball launcher design
 
 <p align="center">
@@ -97,8 +97,8 @@ Credit to Aqid for ball launcher design
 </p>
 
 ### 6. Soccer Bot
-**Software:** Autodesk Fusion, Ultimaker Cura
-**Date:** Feb 2025
+- **Software:** Autodesk Fusion, Ultimaker Cura
+- **Date:** Feb 2025
 
 <p align="center">
   <img src="CAD_Picture/Soccerbot/Soccerbot_1.jpg" width="40%"/>
