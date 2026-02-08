@@ -92,6 +92,8 @@ Designed the mechanical structure for a high-speed autonomous maze-solving robot
 - **Date:** Sep 2025
 Credit to Aqid for ball launcher design
 
+Ball Launcher Bot for STARTathon 2526 (Event)
+
 <p align="center">
   <img src="CAD_Picture/Balllauncherbot/Balllauncherbot_1.jpg" width="40%"/>
 </p>
@@ -100,8 +102,21 @@ Credit to Aqid for ball launcher design
 - **Software:** Autodesk Fusion, Ultimaker Cura
 - **Date:** Feb 2025
 
+Soccer Bot for STARTathon 2425 (Event)
+
 <p align="center">
   <img src="CAD_Picture/Soccerbot/Soccerbot_1.jpg" width="40%"/>
+</p>
+
+### 7. Makerspace Friendlies Cappy
+- **Software:** Autodesk Fusion, Bamboo Lab
+- **Date:** Jan 2025
+
+Merchandise for Makerspace Friendlies 2026 (Event)
+
+<p align="center">
+  <img src="CAD_Picture/MFCappy/MFCappy_1.jpg" width="40%"/>
+  <img src="CAD_Picture/MFCappy/MFCappy_2.jpg" width="40%"/>
 </p>
 
 ---
