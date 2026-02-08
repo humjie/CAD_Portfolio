@@ -93,7 +93,7 @@ Designed the mechanical structure for a high-speed autonomous maze-solving robot
 Credit to Aqid for ball launcher design
 
 <p align="center">
-  <img src="CAD_Picture/Micromouse/Micromouse_1.jpg" width="40%"/>
+  <img src="CAD_Picture/Balllauncherbot/Balllauncherbot_1.jpg" width="40%"/>
 </p>
 
 ### 6. Soccer Bot
